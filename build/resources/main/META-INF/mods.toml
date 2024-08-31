@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[49,)"
+license="MIT"
+
+[[mods]]
+modId="unlimitedmagic"
+version="1.0.0"
+displayName="Unlimited Magic"
+authors="spexdw"
+description='''
+Bu mod, eşyalara sınırsız büyü eklemeyi mümkün kılar.
+'''

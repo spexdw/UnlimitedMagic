@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: UnlimitedMagic
+Specification-Vendor: spexdw
+Specification-Version: 1
+Implementation-Title: unlimitedmagic
+Implementation-Version: 1.0.0
+Implementation-Vendor: spexdw
+Implementation-Timestamp: 2024-08-31T14:01:19+0300
+
